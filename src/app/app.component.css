@@ -1,13 +1,13 @@
 #container {
   margin: 0 auto;
   width: 100%;
-  max-width: 960px;
+
   min-height: 80vh;
 }
 
 :host {
   display: flex;
-  min-height: 100%; 
+
   flex-direction: column;
 }
 

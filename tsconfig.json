@@ -40,9 +40,6 @@
     "noImplicitAny": false,
     "strictTemplates": true,
     "strictNullChecks": false
-  },
-  "typeRoots": [
-    "./typings",
-    "./node_modules/@types/"
-  ]
+  }
+
 }
