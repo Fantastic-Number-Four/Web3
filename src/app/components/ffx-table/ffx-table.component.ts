@@ -33,6 +33,7 @@ export class FfxTableComponent implements OnInit {
 
   constructor(private web3: Web3Service) {
   }
+  
 
   ngOnInit(): void {
     this.addresses$ = Object.keys(contractList);
